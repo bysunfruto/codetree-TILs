@@ -11,6 +11,6 @@ int main() {
     }
 
     aver = sum / 8 ;
-    printf("%lf", aver);
+    printf("%.1lf", aver);
     return 0;
 }
